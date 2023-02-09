@@ -1,0 +1,97 @@
+.menu{
+    display:inline;
+}
+li{
+    display:inline;
+    padding-right:20px;
+}
+.hdiv{
+    display:flex;
+    justify-content:space-between;
+    height:20px;
+    width:100%;
+    background-color:gainsboro;
+    color:black;
+    padding:10px;
+    font-size:16px;
+}
+.perfect{
+	background-color:black;
+	text-align:center;
+	color:white;
+	height:100px;
+	width:100%;
+	font-size:24px;
+}
+.pp{
+	text-align:leftwards;
+	font-size:24px;
+	padding:40px;
+}
+img{
+	border-radius:50%;
+}
+.img{
+	background-color:gainsboro;
+}
+.as{
+	display:flex;
+	justify-content:space-between;
+	background-color:gainsboro;
+}
+.lp{
+	font-size:24px;
+	text-align:center;
+	color:white;
+}
+.mp{
+	width:100%;
+	background-image: url("htmlimage.jpg");
+	height:300px;
+}
+.skills{
+	font-size:24px;
+	text-align:center;
+}
+.rule{
+	width:350px;
+}
+.tech{
+	margin-left:70px;
+}
+.lang{
+	margin-left:70px;
+}
+.techskills{
+	margin-left:180px;
+}
+.langskills{
+	margin-right:180px;
+}
+.line{
+	display:flex;
+	justify-content:space-between;
+}
+.bgcolorskill{
+	background-color:gainsboro;
+}
+.contact{
+	background-color:black;
+	text-align:center;
+	color:white;
+}
+.box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.box1,.box2,.box3 {
+    height: 150px;
+    width: 200px;
+    background-color:gainsboro;
+    border-radius: 20px;
+    margin-left: 40px;
+	margin-right: 40px;
+	font-size:16px;
+}
